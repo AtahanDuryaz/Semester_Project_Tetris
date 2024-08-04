@@ -1,0 +1,3 @@
+C:\Users\ataka\OneDrive\Masaüstü\tetris - visual studio\main.cpp\x64\Debug\main.cpp.vcxproj.CopyComplete
+C:\Users\ataka\OneDrive\Masaüstü\tetris - visual studio\main.cpp\x64\Debug\main.cpp.exe
+C:\Users\ataka\OneDrive\Masaüstü\tetris - visual studio\main.cpp\x64\Debug\raylib.dll
